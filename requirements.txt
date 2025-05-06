@@ -2,5 +2,7 @@ streamlit
 tensorflow>=2.9.0
 numpy>=1.19.5
 matplotlib>=3.3.0
-opencv-python>=4.5.0
+
+opencv-python-headless
+
 pillow>=8.0.0
